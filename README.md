@@ -55,3 +55,5 @@ NewsAPI for stock market news articles
 Keras for the machine learning library
 
 This README provides an overview of the project, its features, installation instructions, usage guidelines, and information about contributing and licensing. You can customize it further based on your specific requirements or additional details you want to include.
+
+PRANJAL PATIL
